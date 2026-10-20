@@ -1,0 +1,6 @@
+{
+  "appId": "com.aarvee.sitedefectlog",
+  "appName": "Site Defect Log",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
